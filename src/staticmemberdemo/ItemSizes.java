@@ -1,7 +1,7 @@
 package staticmemberdemo;
 
 public class ItemSizes {
-	public static String mSmall = "Men's Pequeno";
+	public static String mSmall = "Men's Small";
 	public static String mMedium = "Men's Medium";
 	public static String mLarge = "Men's Large";
 	
